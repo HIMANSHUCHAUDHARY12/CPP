@@ -1,6 +1,7 @@
 #ifndef PRODUCTMANAGER_H
 #define PRODUCTMANAGER_H
 #include<vector>
+hi bhai kaise ho aaap
 
 #include "product.h"
 //using namespance std;
